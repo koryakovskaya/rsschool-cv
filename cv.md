@@ -23,7 +23,7 @@ Hi, I’m Tanya, ambitious junior junior front-end developer. I love to study an
 
 6. **Education**
 *High education:*
-Belarusian State Economics University, Minsk, Belarus (Management)
+Belarusian State Economics University, Minsk Belarus (Management)
 
 *Courses:*
 Business analysis in software development (Stormnet),
