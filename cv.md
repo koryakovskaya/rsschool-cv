@@ -14,3 +14,20 @@ Hi, I’m Tanya, ambitious junior junior front-end developer. I love to study an
 * Visual Studio
 * Git
 * Figma
+
+5.  ``` 
+        function reverse (n) {
+          let number = parseFloat(n.toString().split("").reverse().join(""));
+          return number;
+        }
+
+6. **Education**
+*High education:*
+Belarusian State Economics University, Minsk, Belarus (Management)
+
+*Courses:*
+Business analysis in software development (Stormnet),
+Web design (Tilda school)
+
+7. **English** 
+B1
